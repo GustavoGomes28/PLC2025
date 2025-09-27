@@ -2,20 +2,14 @@
 
 Neste repositório encontram-se os trabalhos práticos realizados no âmbito da disciplina de Processamento de Linguagens e Compiladores, do curso de Ciências da Computação da Universidade do Minho..
 
----
-
 ## Autor
 
 * Nome: Gustavo Alves de Araújo Gomes
 * ID: A101777
 
----
-
 ## Trabalhos Realizados
 
 * [TPC 1 — Expressão Regular](./TPC1)
-
----
 
 ## Notas
 
