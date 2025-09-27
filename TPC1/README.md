@@ -1,6 +1,6 @@
 # TPC1 - Especificação de uma expressão regular
 
-### Especifique uma expressão regular que faça match com qualquer string binária desde que esta não contenha a substring "011".
+###### Especifique uma expressão regular que faça match com qualquer string binária desde que esta não contenha a substring "011".
 
 ## Exemplos válidos:
 
