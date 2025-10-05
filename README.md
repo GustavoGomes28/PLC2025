@@ -10,6 +10,7 @@ Neste repositório encontram-se os trabalhos práticos realizados no âmbito da 
 ## Trabalhos Realizados
 
 * [TPC 1 — Expressão Regular](./TPC1)
+* [TPC 2 — Conversor de MarkDown para HTML](./TPC2)
 
 ## Notas
 
