@@ -12,6 +12,7 @@ Neste repositório encontram-se os trabalhos práticos realizados no âmbito da 
 * [TPC 1 — Expressão Regular](./TPC1)
 * [TPC 2 — Conversor de MarkDown para HTML](./TPC2)
 * [TPC 3 — Analisador Léxico](./TPC3)
+* [TPC 4 — Vending Machine](./TPC4)
 
 ## Notas
 
